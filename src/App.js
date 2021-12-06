@@ -39,8 +39,8 @@ render(){
       <h1 className="title"> Monsters Project</h1>
       <SearchBox  placeholder ="searchmonsters" handleChange = {this.handleChange} />
       
-      <CardList monsters={filteredMonsters}>
-      </CardList>
+      <CardList monsters={filteredMonsters} />
+      
      
     </div>
   );
