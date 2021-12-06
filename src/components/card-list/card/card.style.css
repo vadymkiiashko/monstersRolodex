@@ -17,4 +17,8 @@
     transform: scale(1.05);
     border: 2px solid rgb(19, 18, 18);
   }
+
+  img {
+    scale: auto;
+  }
   
