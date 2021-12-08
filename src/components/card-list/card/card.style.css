@@ -21,4 +21,8 @@
   img {
     scale: auto;
   }
+
+h2 {
+object-fit: contain;
+}
   
